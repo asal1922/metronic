@@ -1,0 +1,95 @@
+{
+    "items": [
+        {
+            "title": "",
+            "items": [
+                {
+                    "header": "Dashboard",
+                    "icon":"RxDashboard",
+                    "sub_menu": [
+                        { "name": "Light Sidebar" },
+                        { "name": "Dark Sidebar" }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "USER",
+            "items": [
+                {
+                    "header": "Public Profile",
+                    "icon":"CiUser",
+                    "sub_menu": [
+                        {
+                            "name": "Profiles",
+                            "items": [
+                                "Default",
+                                "Creator",
+                                "Company",
+                                "NFT",
+                                "Blogger",
+                                "CRM",
+                                "Gamer",
+                                "Pain",
+                                "Modal"
+                            ]
+                        },
+                        { "name": "Projects", "items": ["3 columns", "2 Columns"],"icon":"RxDashboard" },
+                        { "name": "Works" },
+                        { "name": "Teams" },
+                        { "name": "NetWork" },
+                        { "name": "Activity" },
+                        { "name": "Campaign-Card" },
+                        { "name": "Campaign-List" },
+                        { "name": "Empty" }
+                    ]
+                },
+                {
+                    "header": "My Account",
+                    "icon":"CiSettings",
+                    "sub_menu": [
+                        {
+                            "name": "Account Home",
+                            "items": [
+                                "Get Start",
+                                "User Profile",
+                                "Company Profile",
+                                "Settings - With Sidebar",
+                                "Sitting -Enterprise",
+                                "Sitting - Plain",
+                                "Settings - Modal"
+                            ]
+                        },
+                        {
+                            "name": "Billing",
+                            "items": [
+                                "Billing - Basic",
+                                "Billing - Enterprise",
+                                "Plans",
+                                "Billing History"
+                            ]
+                        },
+                        {
+                            "name": "Security",
+                            "items": [
+                                "Get Start",
+                                "Security Overview",
+                                "Allowed IP Addresses",
+                                "Privacy Settings",
+                                "Device Management",
+                                "Backup & Recovery",
+                                "Current Sessions",
+                                "Security Log"
+                            ]
+                        },
+                        { "name": "API KEYS" },
+                        { "name": "Notifications" }
+                    ]
+                }
+            ]
+        },
+        { "title": "APPS", "items": [{ "header": "User Management" ,"icon":"CiSettings"}] },
+        { "title": "Projects" },
+        { "title": "eCommerce" }
+    ]
+}
